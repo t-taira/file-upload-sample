@@ -14,3 +14,12 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+Gemfile.lock
+coverage
+doc/
+spec/reports
+test/tmp
+.idea
+reports
+public/system
